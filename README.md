@@ -12,4 +12,4 @@ The data is available [here](https://s3.console.aws.amazon.com/s3/home?region=us
 | 2022 | q1 |   Avaialable |
 | 2023 | q3 | Not-Available |
 
-![Alt text](g.jpg)
+![Alt text](g.jpg | width =100)
