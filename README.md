@@ -4,7 +4,7 @@ Wejo Data Services is proving the connected vehicle data of Iowa State from Octo
 ## Data Location
 The data is available [here](https://s3.console.aws.amazon.com/s3/home?region=us-east-1#)
 
-### Data Availability
+### Data Availability Table
 
 | Year       | Quarter           |Status  |
 | ------------- |:-------------:| -----:|
