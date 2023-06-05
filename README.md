@@ -7,10 +7,8 @@ The data is available [here](https://s3.console.aws.amazon.com/s3/home?region=us
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
+| Year       | Quarter           |Status  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
+| 2021 | q1 | Available |
+| 2022 | q1      |   Avaialable |
+| 2023 | q3 | Not-Available |
